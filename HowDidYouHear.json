@@ -1,0 +1,16 @@
+{
+  "@context": "https://dceg.cancer.gov/research/who-we-study/cohorts/connect",
+  "@id": "https://episphere.github.io/conceptIDs/HowDidYouHear.json",
+  "uri": "https://episphere.github.io/conceptIDs/HowDidYouHear.json",
+  "id": "SignIn",
+  "conceptID": "010200004",
+  "variable": "RcrtES_Aware_v1r0",
+  "questionText": "How did you hear about this study?",
+  "name": "Nicole Gerlanc",
+  "edit_at": "https://github.com/episphere/conceptIDs/HowDidYouHear.json",
+  "vers": "0.1",
+  "description": "This question has 11 checkboxes to the question, each one is treated as a separate question",
+  "type": "Question",
+  "primary source": "https://episphere.github.io/conceptIDs/Recruitment.json",
+  "secondary source": "https://episphere.github.io/conceptIDs/EligibilityScreener.json"
+}

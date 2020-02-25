@@ -1,0 +1,13 @@
+{
+  "@context": "https://dceg.cancer.gov/research/who-we-study/cohorts/connect",
+  "@id": "https://episphere.github.io/conceptIDs/yes.json",
+  "uri": "https://episphere.github.io/conceptIDs/yes.json",
+  "id": "yes",
+  "value": 1,
+  "conceptID": "000000001",
+  "name": "Nicole Gerlanc",
+  "edit_at": "https://github.com/episphere/conceptIDs/yes.json",
+  "vers": "0.1",
+  "description": "Answer of yes to question",
+  "type": "Response"
+}
